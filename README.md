@@ -1,6 +1,6 @@
-# app_test
+# DSC Uniport Mentorship Programm
 
-A new Flutter project.
+This project is a playground for DSC Uniport mobile-dev mentorship program Live Sessions with mentees.
 
 ## Getting Started
 
