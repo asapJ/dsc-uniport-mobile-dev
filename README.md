@@ -1,4 +1,4 @@
-# DSC Uniport Mentorship Programm
+# DSC Uniport Mentorship Programme
 
 This project is a playground for DSC Uniport mobile-dev mentorship program Live Sessions with mentees.
 
